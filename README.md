@@ -36,7 +36,7 @@ No build process required! This is a single-file HTML application.
 
 1. **Clone or download** the repository
    ```bash
-   git clone https://github.com/yourusername/LeakSee.git
+   git clone https://github.com/aluukill/LeakSee.git
    cd LeakSee
    ```
 
